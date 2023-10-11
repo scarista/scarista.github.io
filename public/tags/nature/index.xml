@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nature on amcs :: creative stuff</title>
+    <link>https://scarista.github.io/tags/nature/</link>
+    <description>Recent content in Nature on amcs :: creative stuff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 25 Mar 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://scarista.github.io/tags/nature/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Waiting</title>
+      <link>https://scarista.github.io/shorts/waiting/</link>
+      <pubDate>Wed, 25 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://scarista.github.io/shorts/waiting/</guid>
+      <description>&amp;ldquo;We can&amp;rsquo;t go back down, the wolves are waiting there!&amp;rdquo; she cried.
+&amp;ldquo;Well that other thing is waiting up there!&amp;rdquo; he spat back.</description>
+    </item>
+    
+    <item>
+      <title>Feast</title>
+      <link>https://scarista.github.io/shorts/feast/</link>
+      <pubDate>Wed, 24 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://scarista.github.io/shorts/feast/</guid>
+      <description>The glowing embers of the fire led the pack straight to the feast. Once they tore through the fibrous outer wrapper the flesh, blood and marrow within were delicious.</description>
+    </item>
+    
+  </channel>
+</rss>

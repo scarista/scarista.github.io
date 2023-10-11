@@ -1,0 +1,15 @@
+---
+title: 'happy'
+date: 2022-06-17
+categories: ['Blog']
+tags: ['Quotes']
+layout: post
+published: true
+url: '/blog/happy/'
+author: Alex
+showtoc: false
+---
+
+I read this quote on Dan Piraro's Bizarro Blog recently and it struck a chord. It seems like something we should all stop and have a think about.
+<!--more-->
+> "The United States has for decades been trying to prove that you can buy your way to happiness, but I think they’re losing that argument. Happy people don’t stockpile weapons." [Dan Piraro](https://www.bizarro.com/blog/2022/6/12/street-closing)
