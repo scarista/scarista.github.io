@@ -3,10 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://scarista.github.io/</loc>
-    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://scarista.github.io/categories/blog/</loc>
+    <lastmod>2022-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://scarista.github.io/categories/</loc>
-    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
+    <lastmod>2022-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://scarista.github.io/tags/commentary/</loc>
+    <lastmod>2022-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://scarista.github.io/post/</loc>
+    <lastmod>2022-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://scarista.github.io/blog/smart/</loc>
+    <lastmod>2022-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://scarista.github.io/tags/</loc>
+    <lastmod>2022-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://scarista.github.io/blog/free-bird/</loc>
+    <lastmod>2022-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://scarista.github.io/blog/happy/</loc>
+    <lastmod>2022-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://scarista.github.io/tags/quotes/</loc>
+    <lastmod>2022-06-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://scarista.github.io/tags/audio/</loc>
+    <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://scarista.github.io/blog/audio-equation-1/</loc>
+    <lastmod>2022-03-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://scarista.github.io/tags/blogging/</loc>
+    <lastmod>2021-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://scarista.github.io/tags/software/</loc>
+    <lastmod>2021-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://scarista.github.io/blog/switching-to-hugo/</loc>
+    <lastmod>2021-12-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://scarista.github.io/blog/ereading/</loc>
+    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://scarista.github.io/tags/technology/</loc>
+    <lastmod>2021-11-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://scarista.github.io/blog/ditching-wordpress/</loc>
+    <lastmod>2021-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://scarista.github.io/tags/fire/</loc>
     <lastmod>2015-07-29T00:00:00+00:00</lastmod>
@@ -17,16 +65,10 @@
     <loc>https://scarista.github.io/shorts/memories/</loc>
     <lastmod>2015-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://scarista.github.io/post/</loc>
-    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://scarista.github.io/tags/revenge/</loc>
     <lastmod>2015-07-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://scarista.github.io/categories/shorts/</loc>
-    <lastmod>2015-07-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://scarista.github.io/tags/</loc>
     <lastmod>2015-07-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://scarista.github.io/tags/night/</loc>
@@ -194,9 +236,6 @@
     <loc>https://scarista.github.io/shorts/clock/</loc>
     <lastmod>2014-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://scarista.github.io/categories/stories/</loc>
-    <lastmod>2014-08-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://scarista.github.io/shorts/thrill/</loc>
     <lastmod>2014-08-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -236,7 +275,11 @@
     <loc>https://scarista.github.io/shorts/segments/</loc>
     <lastmod>2005-08-23T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://scarista.github.io/home/</loc>
+  </url><url>
     <loc>https://scarista.github.io/about/</loc>
+  </url><url>
+    <loc>https://scarista.github.io/archives/</loc>
   </url><url>
     <loc>https://scarista.github.io/docs/</loc>
   </url><url>

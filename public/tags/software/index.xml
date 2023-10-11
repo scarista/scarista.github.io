@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software on amcs :: creative stuff</title>
+    <link>https://scarista.github.io/tags/software/</link>
+    <description>Recent content in Software on amcs :: creative stuff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://scarista.github.io/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>switching to hugo</title>
+      <link>https://scarista.github.io/blog/switching-to-hugo/</link>
+      <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://scarista.github.io/blog/switching-to-hugo/</guid>
+      <description>&lt;p&gt;In a recent post, I wrote about how it was time to ditch Wordpress. At that point, I didn&amp;rsquo;t know what publishing tool I was going to use. This post says a bit about the option I picked (Hugo) and why.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on amcs :: creative stuff</title>
+    <link>https://scarista.github.io/categories/blog/</link>
+    <description>Recent content in Blog on amcs :: creative stuff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://scarista.github.io/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>smart?</title>
+      <link>https://scarista.github.io/blog/smart/</link>
+      <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://scarista.github.io/blog/smart/</guid>
+      <description>I heard a snippet on the radio where someone said they thought the new Twitter guy was smarter than Einstein. I assumed they meant Albert.
+However, the evidence would suggest otherwise&amp;hellip;.</description>
+    </item>
+    
+    <item>
+      <title>free bird?</title>
+      <link>https://scarista.github.io/blog/free-bird/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://scarista.github.io/blog/free-bird/</guid>
+      <description>So, the bird is apparently free. Perhaps so, but instead of taking flight I expect an accelerated death spiral. Time to head for fresh pastures, I think.
+I&amp;rsquo;ll swap the bird for a different genus: Mastodon.</description>
+    </item>
+    
+    <item>
+      <title>happy</title>
+      <link>https://scarista.github.io/blog/happy/</link>
+      <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://scarista.github.io/blog/happy/</guid>
+      <description>&lt;p&gt;I read this quote on Dan Piraro&amp;rsquo;s Bizarro Blog recently and it struck a chord. It seems like something we should all stop and have a think about.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>audio equation #1</title>
+      <link>https://scarista.github.io/blog/audio-equation-1/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://scarista.github.io/blog/audio-equation-1/</guid>
+      <description>Schiit Magni 3 + Schiit Modi 3 + Sennheiser HD 600 = Aural Delight</description>
+    </item>
+    
+    <item>
+      <title>switching to hugo</title>
+      <link>https://scarista.github.io/blog/switching-to-hugo/</link>
+      <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://scarista.github.io/blog/switching-to-hugo/</guid>
+      <description>&lt;p&gt;In a recent post, I wrote about how it was time to ditch Wordpress. At that point, I didn&amp;rsquo;t know what publishing tool I was going to use. This post says a bit about the option I picked (Hugo) and why.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ereading</title>
+      <link>https://scarista.github.io/blog/ereading/</link>
+      <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://scarista.github.io/blog/ereading/</guid>
+      <description>Got myself one of these Kobo Clara HD eReaders a wee while back.
+Very impressed. Much better to read on than a mobile phone. More portable than a tablet. Lots of eBooks available from Kobo. But I can also read eBooks from Google and Amazon on it. So that&amp;rsquo;s great if you don&amp;rsquo;t want to be tied to a particular ecosystem. There&amp;rsquo;s also the option to borrow books from your local library using OverDrive.</description>
+    </item>
+    
+    <item>
+      <title>ditching wordpress</title>
+      <link>https://scarista.github.io/blog/ditching-wordpress/</link>
+      <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://scarista.github.io/blog/ditching-wordpress/</guid>
+      <description>Once upon a time, so the story goes, I kept a blog on Blogger. The time came for something better, so I moved my blog to WordPress. Things were good for a time. They were so good that one blog begat a second and then a third. I even added a fourth, self-hosted site.
+Then my urge to blog waned.
+When the urge returned, I went back to my WordPress hosted sites to find them strewn with adverts.</description>
+    </item>
+    
+  </channel>
+</rss>

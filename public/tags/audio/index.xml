@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Audio on amcs :: creative stuff</title>
+    <link>https://scarista.github.io/tags/audio/</link>
+    <description>Recent content in Audio on amcs :: creative stuff</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://scarista.github.io/tags/audio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>audio equation #1</title>
+      <link>https://scarista.github.io/blog/audio-equation-1/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://scarista.github.io/blog/audio-equation-1/</guid>
+      <description>Schiit Magni 3 + Schiit Modi 3 + Sennheiser HD 600 = Aural Delight</description>
+    </item>
+    
+  </channel>
+</rss>

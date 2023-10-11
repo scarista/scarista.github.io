@@ -6,7 +6,75 @@
     <description>Recent content on amcs :: creative stuff</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 29 Jul 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://scarista.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://scarista.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>smart?</title>
+      <link>https://scarista.github.io/blog/smart/</link>
+      <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://scarista.github.io/blog/smart/</guid>
+      <description>I heard a snippet on the radio where someone said they thought the new Twitter guy was smarter than Einstein. I assumed they meant Albert.
+However, the evidence would suggest otherwise&amp;hellip;.</description>
+    </item>
+    
+    <item>
+      <title>free bird?</title>
+      <link>https://scarista.github.io/blog/free-bird/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://scarista.github.io/blog/free-bird/</guid>
+      <description>So, the bird is apparently free. Perhaps so, but instead of taking flight I expect an accelerated death spiral. Time to head for fresh pastures, I think.
+I&amp;rsquo;ll swap the bird for a different genus: Mastodon.</description>
+    </item>
+    
+    <item>
+      <title>happy</title>
+      <link>https://scarista.github.io/blog/happy/</link>
+      <pubDate>Fri, 17 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://scarista.github.io/blog/happy/</guid>
+      <description>&lt;p&gt;I read this quote on Dan Piraro&amp;rsquo;s Bizarro Blog recently and it struck a chord. It seems like something we should all stop and have a think about.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>audio equation #1</title>
+      <link>https://scarista.github.io/blog/audio-equation-1/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://scarista.github.io/blog/audio-equation-1/</guid>
+      <description>Schiit Magni 3 + Schiit Modi 3 + Sennheiser HD 600 = Aural Delight</description>
+    </item>
+    
+    <item>
+      <title>switching to hugo</title>
+      <link>https://scarista.github.io/blog/switching-to-hugo/</link>
+      <pubDate>Thu, 02 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://scarista.github.io/blog/switching-to-hugo/</guid>
+      <description>&lt;p&gt;In a recent post, I wrote about how it was time to ditch Wordpress. At that point, I didn&amp;rsquo;t know what publishing tool I was going to use. This post says a bit about the option I picked (Hugo) and why.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ereading</title>
+      <link>https://scarista.github.io/blog/ereading/</link>
+      <pubDate>Thu, 25 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://scarista.github.io/blog/ereading/</guid>
+      <description>Got myself one of these Kobo Clara HD eReaders a wee while back.
+Very impressed. Much better to read on than a mobile phone. More portable than a tablet. Lots of eBooks available from Kobo. But I can also read eBooks from Google and Amazon on it. So that&amp;rsquo;s great if you don&amp;rsquo;t want to be tied to a particular ecosystem. There&amp;rsquo;s also the option to borrow books from your local library using OverDrive.</description>
+    </item>
+    
+    <item>
+      <title>ditching wordpress</title>
+      <link>https://scarista.github.io/blog/ditching-wordpress/</link>
+      <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://scarista.github.io/blog/ditching-wordpress/</guid>
+      <description>Once upon a time, so the story goes, I kept a blog on Blogger. The time came for something better, so I moved my blog to WordPress. Things were good for a time. They were so good that one blog begat a second and then a third. I even added a fourth, self-hosted site.
+Then my urge to blog waned.
+When the urge returned, I went back to my WordPress hosted sites to find them strewn with adverts.</description>
+    </item>
+    
     <item>
       <title>Memories</title>
       <link>https://scarista.github.io/shorts/memories/</link>
@@ -113,7 +181,7 @@
       <pubDate>Wed, 21 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>https://scarista.github.io/shorts/text/</guid>
-      <description> </description>
+      <description>Sorry honey held up at office going 2 b late home So who the hell just parked your car in the garage?! </description>
     </item>
     
     <item>
@@ -415,13 +483,31 @@ Hi Score: 325,760.</description>
     </item>
     
     <item>
+      <title></title>
+      <link>https://scarista.github.io/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://scarista.github.io/home/</guid>
+      <description>Welcome This will be some kind of welcome page.</description>
+    </item>
+    
+    <item>
       <title>About Me</title>
       <link>https://scarista.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://scarista.github.io/about/</guid>
-      <description>Music A long time ago, I used to write and record my own songs. These were pretty basic things featuring just me singing and playing an acoustic guitar. Most of these were not all that great but there are a few that I’m quite pleased with, despite never having properly recorded and released them.
-The songs that I’m particularly fond of and have decent recordings of have been digitised and are presented on this site for posterity.</description>
+      <description>Welcome My name&amp;rsquo;s Alex Matheson and this is my little corner of the &amp;rsquo;net. It&amp;rsquo;s an assorted collection of random musings, very short stories, music I&amp;rsquo;ve made, and perhaps a photograph or two. Have a browse around and see what strange delights you can find.
+Music A long time ago, I used to write and record my own songs. These were pretty basic things featuring just me singing and playing an acoustic guitar.</description>
+    </item>
+    
+    <item>
+      <title>Archives</title>
+      <link>https://scarista.github.io/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://scarista.github.io/archives/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -439,7 +525,7 @@ The songs that I’m particularly fond of and have decent recordings of have bee
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://scarista.github.io/music/</guid>
-      <description>Here is some text</description>
+      <description>Music You&amp;rsquo;ll soon be able to listen to some of my, ahem, &amp;ldquo;music&amp;rdquo; from this page.</description>
     </item>
     
     <item>
@@ -448,7 +534,7 @@ The songs that I’m particularly fond of and have decent recordings of have bee
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://scarista.github.io/stories/</guid>
-      <description>Coming soonish!</description>
+      <description>Stories There will be some stories to read here soon, I promise.</description>
     </item>
     
   </channel>
