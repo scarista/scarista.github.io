@@ -1,7 +1,6 @@
 ---
 title: 'About Me'
 description: 'Just a guy who likes making music, taking photos and writing stuff down.'
-featured_image: '/images/newton-a.jpg'
 layout: page
 ---
 
