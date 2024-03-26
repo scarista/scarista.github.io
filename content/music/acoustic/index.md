@@ -2,9 +2,8 @@
 title: Acoustic
 date: 2021-11-08
 description: The dangerous combination of me, an acoustic guitar, the odd sample, effect and/or peculiar noise.
-layout: single
+layout: page
 author: Alex
-url: '/music/acoustic'
 showtoc: true
 published: true
 ---
