@@ -33,7 +33,7 @@ No material object can move faster than light
 “Nothing in physics prevents you from travelling as close to the speed of light as you like  
 99.9 percent of the speed of light would be just fine  
 But no matter how hard you try, you can never gain that last decimal point”
-~ *Carl Sagan*
+~ _Carl Sagan_
 
 Light travels almost 9.5 trillion kilometres in the course of a single year  
 The nearest star to the sun is about 4.5 light-years away  
@@ -50,11 +50,11 @@ Energy equals mass times the speed of light squared
 “Nothing in physics prevents you from travelling as close to the speed of light as you like  
 99.9 percent of the speed of light would be just fine  
 But no matter how hard you try you can never gain that last decimal point”  
-~ *Carl Sagan*
+~ _Carl Sagan_
 
 © Alex Matheson 2010 (except for the quoted bits, obviously)
 
-*This one is pretty much about the speed of light and our efforts to travel into space. I had help from such luminaries as Carl Sagan and some bloke called Einstein with this one. Not forgetting Bill Hicks for providing a way in which our dreams of exploring the galaxy could be realised.*
+_This one is pretty much about the speed of light and our efforts to travel into space. I had help from such luminaries as Carl Sagan and some bloke called Einstein with this one. Not forgetting Bill Hicks for providing a way in which our dreams of exploring the galaxy could be realised._
 
 ## Oil On The Water
 
@@ -95,11 +95,11 @@ Nobody get’s any more
 
 © Alex Matheson 1993
 
-*These lyrics have never been permanently set to music though I have made a few failed attempts to find something that worked. Nothing I tried seemed quite right – apart from a keyboard piece that almost captured the feel I wanted. Then when working on this loop, which was initially titled “Drift”, I thought I’d add some words as an experiment. The search for suitable words led me to the lyrics above and I decided to experiment.*
+_These lyrics have never been permanently set to music though I have made a few failed attempts to find something that worked. Nothing I tried seemed quite right – apart from a keyboard piece that almost captured the feel I wanted. Then when working on this loop, which was initially titled “Drift”, I thought I’d add some words as an experiment. The search for suitable words led me to the lyrics above and I decided to experiment._
 
-*To push the bounds of experimentation further I also decided to use a text-to-speech generator to say the words rather than have me singing them. I used the [MARY Text-To-Speech System](http://mary.dfki.de/) which I think has created a suitable effect. It sounds a little jarring but I feel that works well with the subject matter even if it is quite a departure from the way I originally saw the words being used.*
+_To push the bounds of experimentation further I also decided to use a text-to-speech generator to say the words rather than have me singing them. I used the [MARY Text-To-Speech System](http://mary.dfki.de/) which I think has created a suitable effect. It sounds a little jarring but I feel that works well with the subject matter even if it is quite a departure from the way I originally saw the words being used._
 
-*One day I’ll redo it as a piano and vocal only arrangement. But first I’ll need to get a piano.*
+_One day I’ll redo it as a piano and vocal only arrangement. But first I’ll need to get a piano._
 
 ## Cryovolcanic
 
@@ -107,13 +107,13 @@ Scientists say there are ice volcanoes on Titan
 Where frozen ammonia, methane and water  
 Erupt to the surface like lava here on Earth
 
-*Not really sure that the above count as lyrics. But the words are difficult to make out when they appear so it seemed worth noting them here.*
+_Not really sure that the above count as lyrics. But the words are difficult to make out when they appear so it seemed worth noting them here._
 
-*Otherwise, its samples, samples, samples, all the way down.*
+_Otherwise, its samples, samples, samples, all the way down._
 
 ## Entropy
 
-I was trying to capture a sense of descending into chaos with this track. Hopefully the samples I've used succeed in conveying that.
+_I was trying to capture a sense of descending into chaos with this track. Hopefully the samples I've used succeed in conveying that._
 
 ## Politicians Lie
 
@@ -159,6 +159,6 @@ but their shade is gray
 
 © Alex Matheson 2011
 
-*This was my reaction to the early days of the Tory/Lib Dem coalition formed in 2010. Though looking back through my lifetime, it applies to pretty much every government I've known.*
+_This was my reaction to the early days of the Tory/Lib Dem coalition formed in 2010. Though looking back through my lifetime, it applies to pretty much every government I've known._
 
-*The Tories remain the worst, of course. And that's even more so now we have that narcissistic, lying buffoon Boris Johnson leading a cabinet of incompetent yes-persons and a party that remain the masters of sleaze.*
+_The Tories remain the worst, of course. And that's even more so now we have that narcissistic, lying buffoon Boris Johnson leading a cabinet of incompetent yes-persons and a party that remain the masters of sleaze._

@@ -59,11 +59,9 @@ When it was any other way
 
 © Alex Matheson 1985
 
-**Notes**
+_This song was recorded in 1986 and digitised in 2006. Rather shockingly, it took me until this year (2008) to do anything with it. It had to be trimmed a little at either end, normalised and then I decided to add a delay effect to change the feel of it._
 
-This song was recorded in 1986 and digitised in 2006. Rather shockingly, it took me until this year (2008) to do anything with it. It had to be trimmed a little at either end, normalised and then I decided to add a delay effect to change the feel of it.
-
-Of course it is a bit cliched but I’m kind of fond of it because the idea was actually sparked off whilst sitting in a club somewhere, way back in college days when it seemed that someone was “falling in love” every other time a group of us students went out for beers and dancing. Can’t remember whose turn it was on this occasion. Who knows it might have been mine if I hadn’t had my head full of lyrics and potential guitar riffs.  
+_Of course it is a bit cliched but I’m kind of fond of it because the idea was actually sparked off whilst sitting in a club somewhere, way back in college days when it seemed that someone was “falling in love” every other time a group of us students went out for beers and dancing. Can’t remember whose turn it was on this occasion. Who knows it might have been mine if I hadn’t had my head full of lyrics and potential guitar riffs._
 
 ## Imagine A Man
 
@@ -104,19 +102,16 @@ A man who’s at one with the wind...
 
 © Alex Matheson 1985
 
-**Notes**
+_What can you say about a song that came about as a result of a friend making an off-hand remark about a “song-writing squirrel”?_
 
-What can you say about a song that came about as a result of a friend making an off-hand remark about a “song-writing squirrel”?
+_Well, it’s one of my oldest songs and can be traced futher back than this “definitive” 1985 version. It’s also one of my favourites because I think of it as quirky and very much not part of the mainstream._
 
-Well, it’s one of my oldest songs and can be traced futher back than this “definitive” 1985 version. It’s also one of my favourites because I think of it as quirky and very much not part of the mainstream.
+_This version was recorded in 1986 (again!) but has been nicely updated using my good friend Audacity and some samples from [The Freesound Project](http://freesound.org/):_
 
-This version was recorded in 1986 (again!) but has been nicely updated using my good friend Audacity and some samples from [The Freesound Project](http://freesound.org/):
+* _[forestsurroundings.mp3](https://freesound.org/people/Luftrum/sounds/48411/) by [Luftrum](https://freesound.org/people/Luftrum/), and;_
+* _[Wind1.aif](https://freesound.org/people/pushtobreak/sounds/16796/) by [pushtobreak](https://freesound.org/people/pushtobreak/)._
 
-
-* [forestsurroundings.mp3](https://freesound.org/people/Luftrum/sounds/48411/) by [Luftrum](https://freesound.org/people/Luftrum/), and;
-* [Wind1.aif](https://freesound.org/people/pushtobreak/sounds/16796/) by [pushtobreak](https://freesound.org/people/pushtobreak/).
-
-Their excellent work in recording these samples is much appreciated and they’ve helped to add some nice atmosphere to this recording. Thanks!  
+_Their excellent work in recording these samples is much appreciated and they’ve helped to add some nice atmosphere to this recording. Thanks!_
 
 ## The Jester's Tale
 
@@ -162,18 +157,16 @@ But still we love him
 
 © Alex Matheson 1983
 
-**Notes**
+_Another favourite and yes, this one is a bit of an epic which owes it’s existence to my prog rock roots. It was written way back in 1983 and I’ve recorded it several times, this being the clearest and best performance (from 1987). I cleaned it up a bit and then added various sound effects to give it a bit more life. All of the sound effects used were obtained from [The Freesound Project](http://freesound.org/) and here are the attributions for them:_
 
-Another favourite and yes, this one is a bit of an epic which owes it’s existence to my prog rock roots. It was written way back in 1983 and I’ve recorded it several times, this being the clearest and best performance (from 1987). I cleaned it up a bit and then added various sound effects to give it a bit more life. All of the sound effects used were obtained from [The Freesound Project](http://freesound.org/) and here are the attributions for them:
+* _[No transmission.ogg](https://freesound.org/people/jobro/sounds/38482) by [Jobro](http://freesound.org/people/jobro)_
+* _[Ferrari F456.wav](https://freesound.org/people/djbono/sounds/18771) by [djbono](http://freesound.org/people/djbono)_
+* _[smallAudienceChatter.wav](https://freesound.org/people/oniwe/sounds/32862) by [oniwe](http://freesound.org/people/oniwe)_
+* _[Approx 850 – Enthusiast Audience.wav](http://https://freesound.org/people/lonemonk/sounds/31169) by [lonemonk](http://freesound.org/people/lonemonk)_
+* _[20070224.siren.flac](https://freesound.org/people/dobroide/sounds/31482) by [dobroide](http://freesound.org/people/dobroide)_
+* _[HeartbeatEnhanced.wav](https://freesound.org/people/HerbertBoland/sounds/32731) by [HerbertBoland](http://freesound.org/people/HerbertBoland)_
 
-* [No transmission.ogg](https://freesound.org/people/jobro/sounds/38482) by [Jobro](http://freesound.org/people/jobro)
-* [Ferrari F456.wav](https://freesound.org/people/djbono/sounds/18771) by [djbono](http://freesound.org/people/djbono)
-* [smallAudienceChatter.wav](https://freesound.org/people/oniwe/sounds/32862) by [oniwe](http://freesound.org/people/oniwe)
-* [Approx 850 – Enthusiast Audience.wav](http://https://freesound.org/people/lonemonk/sounds/31169) by [lonemonk](http://freesound.org/people/lonemonk)
-* [20070224.siren.flac](https://freesound.org/people/dobroide/sounds/31482) by [dobroide](http://freesound.org/people/dobroide)
-* [HeartbeatEnhanced.wav](https://freesound.org/people/HerbertBoland/sounds/32731) by [HerbertBoland](http://freesound.org/people/HerbertBoland)
-
-So thanks to all these guys, without whom ... etc.
+_So thanks to all these guys, without whom ... etc._
 
 ## Touch
 
@@ -214,13 +207,11 @@ Would go such a long way
 
 © Alex Matheson 1986
 
-**Notes**
+_This is of the same vintage as Another Day, having originally been recorded in 1987. I used the same tools to digitise it but this one took a little more work._
 
-This is of the same vintage as Another Day, having originally been recorded in 1987. I used the same tools to digitise it but this one took a little more work.
+_The tracking was a bit off so I had to speed it up a tad after denoising it. Then I decided that it was way too long in its original form having an overlong intro and middle section that didn’t really add anything – instrumental breaks in acoustic numbers aren’t always the best idea._
 
-The tracking was a bit off so I had to speed it up a tad after denoising it. Then I decided that it was way too long in its original form having an overlong intro and middle section that didn’t really add anything – instrumental breaks in acoustic numbers aren’t always the best idea.
-
-So, it has been slashed from a monstrous 4m 57s down to a much more manageable and (dare I say listenable) 3m 36s. It also had to be brightened up a bit as the original recording was quite muddy.
+_So, it has been slashed from a monstrous 4m 57s down to a much more manageable and (dare I say listenable) 3m 36s. It also had to be brightened up a bit as the original recording was quite muddy._
 
 ## This Is Rock And Roll
 
@@ -253,9 +244,7 @@ We’ve got the heart and we’ve got the soul
 
 © Alex Matheson 1986
 
-**Notes**
-
-I trimmed about 40 seconds off the original version of this using Audacity then added some effects to freshen it up a bit. Despite the cliched lyrics I think it isn’t a bad song especially as I was trying very hard to write something with normal, accessible lyrics at the time.
+_I trimmed about 40 seconds off the original version of this using Audacity then added some effects to freshen it up a bit. Despite the cliched lyrics I think it isn’t a bad song especially as I was trying very hard to write something with normal, accessible lyrics at the time._
 
 ## Sacred Heart
 
@@ -291,9 +280,7 @@ Next to mine
 
 © Alex Matheson 1986
 
-**Notes**
-
-More cliches and more trimming to make this a lot more to the point musically and a lot less indulgent.
+_More cliches and more trimming to make this a lot more to the point musically and a lot less indulgent._
 
 ## Beauty And The Beast
 
@@ -326,9 +313,7 @@ It’s a classic case of the Beauty and the Beast
 
 © Alex Matheson 1987
 
-**Notes**
-
-This was written and recorded in 1987. The original recording is much longer but I cut at least a minute of aimless riffing off at either end to produce the version presented here. As recordings go, it’s a bit rougher then the others and it starts rather abruptly (because of the edits) but I like the lyrics and that is why I decided to post the song.
+_This was written and recorded in 1987. The original recording is much longer but I cut at least a minute of aimless riffing off at either end to produce the version presented here. As recordings go, it’s a bit rougher then the others and it starts rather abruptly (because of the edits) but I like the lyrics and that is why I decided to post the song._
 
 ## Another Day
 
@@ -375,6 +360,4 @@ And you realise – that you have lost another day
 
 © Alex Matheson 1985
 
-**Notes**
-
-This was composed in 1985 and most recently recorded in 1987. I used Audacity to normalise it and then boost the volume after using Magix Audio Cleaning Lab to transfer it from tape and remove some hiss and tape noise.
+_This was composed in 1985 and most recently recorded in 1987. I used Audacity to normalise it and then boost the volume after using Magix Audio Cleaning Lab to transfer it from tape and remove some hiss and tape noise._
