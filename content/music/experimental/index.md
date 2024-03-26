@@ -4,9 +4,12 @@ date: 2021-11-08
 description: A playlist of tracks stitched together from various samples and loops.
 layout: single
 author: Alex
+url: '/music/experimental/'
 showtoc: true
 published: true
 ---
+
+{{< soundcloud 1935167 >}}
 
 ## Use Of Weapons
 

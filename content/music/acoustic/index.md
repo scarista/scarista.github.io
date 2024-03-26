@@ -4,9 +4,12 @@ date: 2021-11-08
 description: The dangerous combination of me, an acoustic guitar, the odd sample, effect and/or peculiar noise.
 layout: single
 author: Alex
+url: '/music/acoustic/'
 showtoc: true
 published: true
 ---
+
+{{< soundcloud 1935152 >}}
 
 ## A Love Song
 
