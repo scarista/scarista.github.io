@@ -6,6 +6,7 @@ layout: page
 author: Alex
 showtoc: true
 published: true
+url: '/music/acoustic'
 ---
 
 {{< soundcloud 1935152 >}}
