@@ -2,7 +2,7 @@
 title: Dragon Lake
 date: 2021-10-25
 description: A short story about a little girl, a dragon and a lake
-layout: page
+layout: single
 author: Alex
 showtoc: true
 published: false

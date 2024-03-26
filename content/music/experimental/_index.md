@@ -2,7 +2,7 @@
 title: Experimental
 date: 2021-11-08
 description: A playlist of tracks stitched together from various samples and loops.
-layout: page
+layout: single
 author: Alex
 showtoc: true
 published: true

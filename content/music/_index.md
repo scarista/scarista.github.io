@@ -6,8 +6,7 @@ published: true
 
 ## Music
 
-You'll soon be able to listen to some of my, ahem, "music" from this page.
+As mentioned in the [About Me](/about) section, I like to dabble in things musical. This is a jumping off point into that part of my world.
 
-[Experimental](/music/experimental)
-
-[Acoustic](/music/acoustic)
+- [Acoustic](/music/acoustic) - a few little ditties featuring me and an acoustic guitar. Some additional noises have been added to provide a bit of atmosphere.
+- [Experimental](/music/experimental) - songs created using a mixture of loops, sound effects and samples.
