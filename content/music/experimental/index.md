@@ -4,7 +4,7 @@ date: 2021-11-08
 description: A playlist of tracks stitched together from various samples and loops.
 layout: single
 author: Alex
-url: '/music/experimental/'
+url: '/music/experimental'
 showtoc: true
 published: true
 ---
@@ -13,17 +13,17 @@ published: true
 
 ## Use Of Weapons
 
-No lyrics to this one - the synthesized voice repeating the phrase "Use of weapons is allowed" doesn't count.
+_No lyrics to this one - the synthesized voice repeating the phrase "Use of weapons is allowed" doesn't count._
 
-There is a kind of groovy bass line, assorted guitars, synth patterns and noises that sound like weapons being used. The whole is stitched together from ACID samples and other found sounds.
+_There is a kind of groovy bass line, assorted guitars, synth patterns and noises that sound like weapons being used. The whole is stitched together from ACID samples and other found sounds._
 
 ## Flap
 
-This was the first piece that I composed using samples and its named for one of the samples used. The one I mean will be pretty obvious when you listen to the track.
+_This was the first piece that I composed using samples and its named for one of the samples used. The one I mean will be pretty obvious when you listen to the track._
 
 ## Bradley's Groove
 
-Still no lyrics. Just a collection of nice guitar passages backed with some good old drums and bass.
+_Still no lyrics. Just a collection of nice guitar passages backed with some good old drums and bass._
 
 ## 299792458
 
