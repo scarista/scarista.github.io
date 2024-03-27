@@ -8,7 +8,7 @@ showtoc: true
 published: true
 ---
 
-## Experimental Music Player
+## Experimental Player
 
 {{< soundcloud 1935167 >}}
 
