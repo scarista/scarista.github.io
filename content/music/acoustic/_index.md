@@ -6,16 +6,15 @@ layout: single
 author: Alex
 showtoc: true
 published: true
-url: '/music/acoustic'
 ---
 
 ## Acoustic Player
 
 {{< soundcloud 1935152 >}}
 
-Scroll down or use the table of contents to see the lyrics and notes for these songs.
-
 ## Lyrics & Notes
+
+Scroll down or use the table of contents to see the lyrics and notes for these songs.
 
 ### A Love Song
 
