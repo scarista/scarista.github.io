@@ -130,7 +130,7 @@ params = ["categories", "tags"]
 
 [markup]
   [markup.tableOfContents]
-    endLevel = 2
+    endLevel = 3
     startLevel = 1
   [markup.highlight]
     style = "dracula"
