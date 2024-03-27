@@ -8,23 +8,29 @@ showtoc: true
 published: true
 ---
 
+## Experimental Music Player
+
 {{< soundcloud 1935167 >}}
 
-## Use Of Weapons
+Any lyrics and notes for the above tracks can be found below. Scroll down or use the table of contents to navigate.
+
+## Lyrics & Notes
+
+### Use Of Weapons
 
 _No lyrics to this one - the synthesized voice repeating the phrase "Use of weapons is allowed" doesn't count._
 
 _There is a kind of groovy bass line, assorted guitars, synth patterns and noises that sound like weapons being used. The whole is stitched together from ACID samples and other found sounds._
 
-## Flap
+### Flap
 
 _This was the first piece that I composed using samples and its named for one of the samples used. The one I mean will be pretty obvious when you listen to the track._
 
-## Bradley's Groove
+### Bradley's Groove
 
 _Still no lyrics. Just a collection of nice guitar passages backed with some good old drums and bass._
 
-## 299792458
+### 299792458
 
 The speed of light is 299,792,458 metres per second  
 No material object can move faster than light
@@ -55,7 +61,7 @@ But no matter how hard you try you can never gain that last decimal point”
 
 _This one is pretty much about the speed of light and our efforts to travel into space. I had help from such luminaries as Carl Sagan and some bloke called Einstein with this one. Not forgetting Bill Hicks for providing a way in which our dreams of exploring the galaxy could be realised._
 
-## Oil On The Water
+### Oil On The Water
 
 There’s oil on the water  
 Oil on the shore  
@@ -100,7 +106,7 @@ _To push the bounds of experimentation further I also decided to use a text-to-s
 
 _One day I’ll redo it as a piano and vocal only arrangement. But first I’ll need to get a piano._
 
-## Cryovolcanic
+### Cryovolcanic
 
 Scientists say there are ice volcanoes on Titan  
 Where frozen ammonia, methane and water  
@@ -110,11 +116,11 @@ _Not really sure that the above count as lyrics. But the words are difficult to 
 
 _Otherwise, its samples, samples, samples, all the way down._
 
-## Entropy
+### Entropy
 
 _I was trying to capture a sense of descending into chaos with this track. Hopefully the samples I've used succeed in conveying that._
 
-## Politicians Lie
+### Politicians Lie
 
 politicians lie  
 to suit their cause  
