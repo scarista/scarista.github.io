@@ -8,9 +8,15 @@ showtoc: true
 published: true
 ---
 
+## Acoustic Player
+
 {{< soundcloud 1935152 >}}
 
-## A Love Song
+Scroll down or use the table of contents to see the lyrics and notes for these songs.
+
+## Lyrics & Notes
+
+### A Love Song
 
 She’s sitting in the flashing light  
 At a table with her friends  
@@ -62,7 +68,7 @@ _This song was recorded in 1986 and digitised in 2006. Rather shockingly, it too
 
 _Of course it is a bit cliched but I’m kind of fond of it because the idea was actually sparked off whilst sitting in a club somewhere, way back in college days when it seemed that someone was “falling in love” every other time a group of us students went out for beers and dancing. Can’t remember whose turn it was on this occasion. Who knows it might have been mine if I hadn’t had my head full of lyrics and potential guitar riffs._
 
-## Imagine A Man
+### Imagine A Man
 
 Imagine a man in a light grey coat  
 Sitting beneath a carnival float  
@@ -112,7 +118,7 @@ _This version was recorded in 1986 (again!) but has been nicely updated using my
 
 _Their excellent work in recording these samples is much appreciated and they’ve helped to add some nice atmosphere to this recording. Thanks!_
 
-## The Jester's Tale
+### The Jester's Tale
 
 Spinning lights that dance upon a stage  
 A wild-eyed hero stands before the world  
@@ -167,7 +173,7 @@ _Another favourite and yes, this one is a bit of an epic which owes it’s exist
 
 _So thanks to all these guys, without whom ... etc._
 
-## Touch
+### Touch
 
 I’ve lost track of all these nights  
 I’ve sat here on my own  
@@ -212,7 +218,7 @@ _The tracking was a bit off so I had to speed it up a tad after denoising it. Th
 
 _So, it has been slashed from a monstrous 4m 57s down to a much more manageable and (dare I say listenable) 3m 36s. It also had to be brightened up a bit as the original recording was quite muddy._
 
-## This Is Rock And Roll
+### This Is Rock And Roll
 
 I know this guy called Johnny from a no hope town  
 And he is really sick of all these new wave sounds  
@@ -245,7 +251,7 @@ We’ve got the heart and we’ve got the soul
 
 _I trimmed about 40 seconds off the original version of this using Audacity then added some effects to freshen it up a bit. Despite the cliched lyrics I think it isn’t a bad song especially as I was trying very hard to write something with normal, accessible lyrics at the time._
 
-## Sacred Heart
+### Sacred Heart
 
 You came here from so far away  
 And I hope that you are going to stay  
@@ -281,7 +287,7 @@ Next to mine
 
 _More cliches and more trimming to make this a lot more to the point musically and a lot less indulgent._
 
-## Beauty And The Beast
+### Beauty And The Beast
 
 This girl is really something  
 She lights up the room  
@@ -314,7 +320,7 @@ It’s a classic case of the Beauty and the Beast
 
 _This was written and recorded in 1987. The original recording is much longer but I cut at least a minute of aimless riffing off at either end to produce the version presented here. As recordings go, it’s a bit rougher then the others and it starts rather abruptly (because of the edits) but I like the lyrics and that is why I decided to post the song._
 
-## Another Day
+### Another Day
 
 Ain’t it funny how time seems to fly  
 When you’ve got something that needs to be done  
