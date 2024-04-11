@@ -6,7 +6,7 @@ layout: single
 author: Alex
 showtoc: true
 published: true
-url: /music/acoustic
+url: '/music/acoustic/'
 ---
 
 ## Acoustic Player
