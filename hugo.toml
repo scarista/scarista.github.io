@@ -67,25 +67,25 @@ home = ["HTML", "RSS"]
   #custom_js = ["js/lightbox.js", "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js", "js/main.js"]
 
   [params.social]
-  rss            = true 
+  rss             = false 
   #email          = "youremail@gmail.com"
-  facebook      = "https://facebook.com/matheson33"
-  #googleplus    = "full profile url in googleplus"
-  #twitter       = "full profile url in twitter"
+  facebook        = "https://facebook.com/matheson33"
+  #googleplus     = "full profile url in googleplus"
+  #twitter        = "full profile url in twitter"
   #linkedin       = "https://www.linkedin.com/in/yourlinkedinid"
   #stackoverflow  = "https://stackoverflow.com/users/yourstackoverflowid"
-  instagram     = "https://instagram.com/matheson33"
-  github         = "https://github.com/scarista"
+  instagram       = "https://instagram.com/matheson33"
+  github          = "https://github.com/scarista"
   #wechat         = "your wechat qr code image"
-  #medium        = "full profile url in medium"
-  #slack         = "full workspace url in slack"
-  #pinterest     = "full profile url in pinterest"
-  #reddit        = "full profile url in reddit"
-  #gitlab        = "full profile url in gitlab"
-  mastodon      = "https://mastodon.online/@scarista"
-  #keybase       = "full profile url in keybase"
-  #xing          = "https://www.xing.com/profile/yourxingid"
-  #git           = "full profile url for git user"
+  #medium         = "full profile url in medium"
+  #slack          = "full workspace url in slack"
+  #pinterest      = "full profile url in pinterest"
+  #reddit         = "full profile url in reddit"
+  #gitlab         = "full profile url in gitlab"
+  mastodon        = "https://mastodon.online/@scarista"
+  #keybase        = "full profile url in keybase"
+  #xing           = "https://www.xing.com/profile/yourxingid"
+  #git            = "full profile url for git user"
   
   [[params.friend_link]]
   title = "Linda的博客"
@@ -114,8 +114,8 @@ home = ["HTML", "RSS"]
   title = "About Me"
   href  = "/about"
   [[params.addtional_menus]]
-  title = "Archives"
-  href  = "/archives"
+  title = "Blog"
+  href  = "/blog"
 
 
 [outputFormats.Algolia]

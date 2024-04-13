@@ -1,18 +1,14 @@
 ---
 title: 'switching to hugo'
+description: "Why I replaced Wordpress with Hugo."
 date: 2021-12-02
-categories: ['Blog']
-tags: ['Blogging', 'Software']
-layout: post
+layout: single
 published: true
-url: '/blog/switching-to-hugo/'
 author: Alex
 showtoc: false
 ---
  
 In a recent post, I wrote about how it was time to ditch Wordpress. At that point, I didn't know what publishing tool I was going to use. This post says a bit about the option I picked (Hugo) and why.
-
-<!--more-->
 
 Here are a few of my reasons for switching to [Hugo](https://gohugo.io/):
 

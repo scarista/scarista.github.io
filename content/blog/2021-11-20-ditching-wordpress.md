@@ -1,11 +1,9 @@
 ---
 title: 'ditching wordpress'
+description: "I gave up on using Wordpress. Here's why."
 date: 2021-11-20
-categories: ['Blog']
-tags: ['Blogging']
-layout: post
+layout: single
 published: true
-url: '/blog/ditching-wordpress/'
 author: Alex
 showtoc: false
 ---

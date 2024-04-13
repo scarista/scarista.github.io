@@ -1,11 +1,9 @@
 ---
 title: 'audio equation #1'
+description: "How to achieve Aural Delight."
 date: 2022-03-21
-categories: ['Blog']
-tags: ['Audio']
-layout: post
+layout: single
 published: true
-url: '/blog/audio-equation-1/'
 author: Alex
 showtoc: false
 ---
