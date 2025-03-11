@@ -12,7 +12,7 @@ published: false
 
 Martha's eyes were red-rimmed from crying. She sat by the window of the bedroom she shared with her younger sister, trying not to sob too loudly. Her mother and father were whispering in the next room of their small cottage, and she did not wish to disturb them. She also wanted to make out what they were saying.
 
-"So the elders have decided what they must do?" she heard her mother ask.
+So the elders have decided what they must do?" she heard her mother ask.
 
 Her father grunted in acknowledgement. "They will send a rider to court. He will pass word to the Queen."
 
@@ -22,7 +22,7 @@ Her father grunted in acknowledgement. "They will send a rider to court. He will
 
 "And when will they send soldiers? When the beast lays waste to the castle gardens? When it takes up residence in the Royal chambers?"
 
-There was a pause filled by the sound of father rising from his chair and crossing the hearth to mothers.
+There was a pause filled by the sound of Father rising from his chair and crossing the hearth to mothers.
 
 "Don't cry, my love. All will be well," he said soothingly.
 
@@ -44,7 +44,7 @@ She heard her father moving in the next room.
 
 "Yes," she heard her mother say, "you go. I'll get supper ready and send Martha to collect Jayne. You won't be late?"
 
-"No, there's not much to be said. Not since we sent the message to court. The allocations of what grain and salt meat we have in store are set. We need to check the remaining stocks of cheese and dried fruit and decide how to ration them, but that won't keep us long. Perhaps an hour."
+"No, there's not much to say. Not since we sent the message to court. The grain and salt meat we have stored is already allocated. We need to check the remaining stocks of cheese and dried fruit and decide how to ration them, but that won't keep us long. Perhaps an hour."
 
 There was a moment’s silence in which Martha knew her parents were exchanging a kiss.
 
@@ -56,7 +56,7 @@ She heard the front door of the cottage creak open. A moment later, it shut, and
 
 "Martha!"
 
-Her mother's shout swept away the last trace of her reverie about the dragon. As she had been taught, she hopped quickly from her bed and hurried to her mother's side.
+Her mother's shout swept away the last trace of her reverie about the dragon. She hopped quickly from her bed and hurried to her mother's side.
 
 "Yes, mother."
 
@@ -76,7 +76,7 @@ Martha raised the latch and pulled the door open. She paused and took a deep bre
 
 She stepped onto the road and stopped. What if, she thought, I could stop the dragon? She considered this idea for several seconds, then dismissed it as the childish nonsense her parents would tell her it was. Resuming her humming, she set off along the road to the cottage that was Lana Kieff's nursery.
 
-Despite her dismissal, the thought that she might save the valley from the dragon stayed with her. What was more, the longer she thought about it, the more reasonable the idea seemed. Surely it could not be a difficult thing, to convince a dragon that what it was doing was wrong, that it was not right to destroy land and cattle. After all, the village dogs understood when they were scolded - could any other animal, even one as large as a dragon, be all that different?
+Despite her dismissal, the thought that she might save the valley from the dragon stayed with her. Also, the longer she thought about it, the more reasonable the idea seemed. Surely it could not be a difficult thing, to convince a dragon that what it was doing was wrong, that it was not right to destroy land and cattle. After all, the village dogs understood when they were scolded - could any other animal, even one as large as a dragon, be all that different?
 
 The only answer she could put to that question was "No."
 
@@ -96,7 +96,7 @@ Martha nodded. "Thank you, mother. But I'm sure I won't."
 
 This said, she hastened to her bedroom to make plans for her bold adventure.
 
-The dragon's lair, she had heard elder villagers say, was in the foothills of the Harad Mountains, several miles to the north. She knew that the village road became the Harad Road once beyond the last of the valley's farms and that she could follow it right to the base of the mountains. The road did not actually enter the foothills, she remembered, rather it veered east along their base, entering the Harad Pass above the town of Malian. She would have to leave the road, find her own way into the hills and then on up to the dragon's lair. It would not be a simple journey but she would have to manage - the village, though it did not know it, was depending on her.
+The dragon's lair, she had heard elder villagers say, was in the foothills of the Harad Mountains, several miles to the north. She knew that the village road became the Harad Road once beyond the last of the valley's farms and that she could follow it right to the base of the mountains. The road did not actually enter the foothills, she remembered, rather it veered east along their base, entering the Harad Pass above the town of Malian. She would have to leave the road, find her own way into the hills, and then go on to the dragon's lair. It would not be a simple journey but she would have to manage - the village, though it did not know it, was depending on her.
 
 For the trip, she would need her warmest cape, her stout boots, a change of clothes, food, drink, and her satchel. The cape and boots sat by the front door so she could gather these as she left. She removed trousers, linen under things, a thick woollen pullover and socks and placed them in her satchel. She would have to sneak into the kitchen later and steal - the word made her cringe - some bread, cheese, and perhaps some of mother's sweet cakes. There, she told herself with some satisfaction, all that remains is to begin the journey.
 
@@ -104,17 +104,17 @@ Hours later, when midnight had come and gone, Martha rose from her bed and padde
 
 Moving as softly as any mouse, she took bread from the basket beside the stove. Then she crept into the larder and took cheese and a small skin of milk from the shaded cool-shelf, low against the outer wall. Her trembling heart nearly stopped when the lid of the sweet cake jar clinked as she lifted it. She remained as still as she could, hardly daring to breathe for almost a minute, certain one of her parents would awaken, discover, and scold her. When neither did, she scurried back to the haven of her room, provisions clutched tightly to her small breast.
 
-Back in the bedroom, Jayne was a vague shape beneath blankets rising and falling to the slow rhythm of sleep. Aware that should she disturb her sister, she would raise a racket that would immediately rouse their parents, Martha packed quietly. Luck favoured her, however, and soon she was tiptoeing out of the bedroom and towards the front door.
+Back in the bedroom, Jayne was a vague shape beneath blankets rising and falling to the slow rhythm of sleep. Aware that should she disturb her sister, she would raise a racket that would immediately rouse their parents. Martha packed quietly. Luck favoured her, however, and soon she was tiptoeing out of the bedroom and towards the front door.
 
 After slipping into her boots and winding her cape about herself, she reached out to lift the door-latch.
 
-"Oh," she exhaled softly. The door was locked, the key by her sleeping father's side. This was something she had not considered previously. How was she to begin her adventure now?
+"Oh," she exhaled softly. The door was locked, the key by her sleeping father's bedside. This was something she had not considered previously. How was she to begin her adventure now?
 
 A window, she thought. I could wriggle out a window. But which one? Not in the bedroom because that would surely waken Jayne. The kitchen? No, as it was above the washtub and too difficult for her to reach. The larder? Yes, the larder window would be best. By standing on shelves, she could reach it easily. It was also on the far side of the cottage from her parent's room, so any noise she might make would be less likely to disturb them. She stole across to the larder and slipped inside.
 
-It did not take her long to open the window, push her satchel through and then slip after it, closing the window gently behind herself. She crouched by the side of the cottage for several moments, making sure no one had been alerted to her actions. All remained quiet.
+It did not take her long to open the window, push her satchel through and then slip after it, closing the window gently behind herself. She crouched beside the cottage for several moments, checking that her actions remained undetected. All remained quiet.
 
-She scuttled down to the village road, where she stopped to look back at the cottage. Still, there was no sign of life. The thought of the warm bed she was leaving behind gave her cause to hesitate before her sense of duty to family and village reasserted itself. The dragon must be stopped, she told herself firmly. Without further pause, she turned and set forth along the road.
+She scuttled down to the village road, where she stopped to look back at the cottage. Still, there was no sign of life. The thought of the warm bed she was leaving behind gave her cause to hesitate before her sense of duty to family and the village reasserted itself. She resolved to stop the dragon. Without further pause, she turned and set forth along the road.
 
 ## III
 
@@ -130,7 +130,7 @@ To the right of the road she espied a squat cube of stone. She stopped to inspec
 
 "Malian, sixteen," she said aloud. "Harad Pass, twenty-one." That left another seven miles between her and the Harad foothills. "I wonder if I can reach them by nightfall," she murmured.
 
-It then occurred to her that if she reached the foothills by dark, she would need a place to sleep. This thought gave her cause for some concern - she would have to sleep outside. However, her mind quickly returned to thoughts of adventurous deeds and she was comforted by the certainty that a cave, or abandoned cabin, would be found to fulfil her needs.
+It then occurred to her that if she reached the foothills by dark, she would need a place to sleep. This thought gave her cause for some concern - she would have to sleep outside. However, her mind quickly returned to thoughts of adventurous deeds and the certainty she would find a cave, or an abandoned cabin, to fulfil her needs comforted her.
 
 ## IV
 
@@ -152,7 +152,7 @@ Martin stepped to his wife's side and placed a comforting arm about her shoulder
 
 Alicia nodded, then turned her head to his shoulder, muffling a sob. He drew her closer for a moment, holding her tight. Then he raised her chin gently with his free hand.
 
-"She'll be fine," he said softly as their gazes met. He placed a kiss on her forehead. "I'd best be off. You know what Peter and Abel are like, they'll not hang about if I'm late and I really need their help today."
+"She'll be fine," he whispered as their gazes met. He placed a kiss on her forehead. "I'd best be off. You know what Peter and Abel are like. They'll not hang about if I'm late and I really need their help today."
 
 "Yes," Alicia agreed. "Go quickly." She pecked his cheek. "Until midday."
 
@@ -186,7 +186,7 @@ When this failed to happen, Martha relaxed a little. The cub yapped again and cr
 
 "Are you alone too?" she asked it softly.
 
-The cub wagged its tail and gave issue to a full-throated bark, its wide eyes full of understanding.
+The cub wagged its tail and gave a full-throated bark, its wide eyes full of understanding.
 
 Martha smiled. "Well, I'm on a quest to stop a dragon but, if that doesn't put you off, you can come with me."
 
@@ -222,7 +222,7 @@ John stepped into Martin's wake and jogged to catch up with him. "Then you'll be
 
 "Where will you look for her?"
 
-"She's likely to be hiding in one of the fields, or copses, watching the wildlife. I'm going to get Peter and Abel and have them look to the west of the village. We can do the east."
+"She's likely to be hiding in a field, or copse, watching the wildlife. I'm going to get Peter and Abel and have them look to the west of the village. We can do the east."
 
 The other man nodded.
 
@@ -234,7 +234,7 @@ To Martin's dismay, dusk arrived all too soon and he and John had found no trace
 
 "Perhaps Peter and Abel have had more luck." John Anders told his troubled friend.
 
-"I hope so, John. I hope so. But, a feeling tells me they haven't."
+"I hope so, John. I hope so. But a feeling tells me they haven't."
 
 "Such feelings are not always to be trusted. Besides, we may yet find her awaiting your return home."
 
@@ -250,7 +250,7 @@ Abel shook his head slowly. "I'm sorry, Martin, there was none."
 
 "Pardon me?" The four men turned to face the speaker, a tall man whose garb and accent revealed him as a stranger.
 
-"Yes, friend." Martin answered warmly despite his inner unease.
+"Yes, friend," Martin answered warmly, despite his inner unease.
 
 "Forgive me, but I could not help but overhear your conversation." He spoke directly to Martin. "Your daughter has gone missing?"
 
@@ -282,9 +282,9 @@ The stranger raised a hand. "It is all right, given the circumstance under which
 
 "Then it would be wrong of me to delay you. However, please remember that from today, the door of Martin Hydale will always be open to you."
 
-"Again, my thanks to you," Malagar clasped Martin's hand once more. "I hope your daughter returns safely into your arms. Farewell." He nodded to each of the others, then stepped past and hastened away.
+"Again, my thanks to you," Malagar clasped Martin's hand once more. "I hope your daughter returns safely to your arms. Farewell." He nodded to each of the others, then stepped past and hastened away.
 
-Martin turned to his friends. "Come, a meal for you all then I must set off after Martha."
+Martin turned to his friends. "Come, a meal for you all, then I must set off after Martha."
 
 "Yes, but not alone, Martin. I'll be coming with you."
 
@@ -294,7 +294,7 @@ Martin turned to his friends. "Come, a meal for you all then I must set off afte
 
 "Friends," Peter and Abel added in unison, and Martin knew it was useless to say any more.
 
-"Very well," he conceded instead. And as they walked back towards his cottage, he was not the only one to wonder where the stranger, Malagar, was expected that night, for the next habitation was more than a day’s walk to the south.
+"Very well," he conceded instead. As they walked back towards his cottage, he and others wondered where the stranger, Malagar, was expected that night, since the next habitation lay more than a day’s walk to the south.
 
 ## VII
 
@@ -364,7 +364,7 @@ Two hours later, they found the cave in which Martha had spent the night. And, t
 
 "Whoever they were, Martin, they didn't get into the cave," Peter offered, as Martin's expression darkened. "Their footsteps stop here."
 
-"But," Martin rumbled, "whoever they are, they're still out there and so is my daughter!"
+"But," Martin rumbled, "whoever they are, they're still out there, and so is my daughter!"
 
 "There are more tracks here," called Abel from above the cave. "They look like Martha's."
 
@@ -424,15 +424,15 @@ Dragon's breath swirled around Martha. She gagged. The beast reeked of rotten eg
 
 The dragon's golden eyes flashed red. "Do not fear me, child. Just speak." As terrible a creature as it appeared, the dragon's tone was kindly.
 
-At last Martha found her tongue. "Because what you are doing is wrong. You steal cattle and destroy crops. And you have brought great sorrow to my family and friends. I have come to tell you to stop!"
+At last Martha found her tongue. "Because what you are doing is wrong. You steal cattle and destroy crops. And you have brought great sorrow to my family and friends. I‘m here to tell you to stop!"
 
-And now the dragon's eyes flared an iridescent blue. Thunder rumbled deep in its throat. "Stop? How may I stop? I do what I do to survive, it is the way of things."
+And now the dragon's eyes flared an iridescent blue. Thunder rumbled deep in its throat. "Stop? How may I stop? I do what I do to survive. It is the way of things."
 
 "But it's wrong!" Martha stamped a foot. "The village is dying! The land is dying! And when the children grow up, there will be nothing for them!" The moisture of tears glistened in Martha's eyes.
 
 Silence fell as the dragon seemed to consider Martha's words. Its eyes flashed a variety of colours - red, blue, green, amber - but always returned to gold.
 
-Martha's tears were flowing freely now, and she did not try to hide or stem them.
+Martha's tears were flowing freely now, and she did not hide or stem them.
 
 "Why do you cry?" the dragon asked her softly.
 
@@ -444,13 +444,13 @@ Martha looked up at the beast. "Because I am sad."
 
 To Martha's surprise, a giant tear formed in the corner of the dragon's right eye. "But why, child, are you sad for me?"
 
-"Because to the entire world you are a monster and nobody sees that you have no choice other than to be as you are."
+"Because to the entire world, you are a monster and nobody sees that you have no choice other than to be as you are."
 
 As Martha said this, the dragon's first tear fell to the ground with a great splash. A second swelled in its left eye and quickly joined its twin upon the earth.
 
 "I am sorry, child." The words were barely audible, but Martha heard and understood. Then, as her tears abated, so the dragon's quickly became a flood. She stepped back as tremendous sobs racked the dragon's body and its tears fell faster. And as she watched the noble beast, she saw it was growing smaller.
 
-"What?" she said in confusion and then she saw. The crater was filling with the dragon's tears and as it filled and the tears fell, so the dragon was diminished. Shocked, she turned away and discovered her father and his companions looking on in wonder. She dashed into her father's arms.
+"What?" she said in confusion and then she saw. The dragon’s tears filled the crater, and as it filled and the tears fell, the dragon shrank. Shocked, she turned away and discovered her father and his companions looking on in wonder. She dashed into her father's arms.
 
 "Oh, Martha," he cried and held her close.
 

@@ -105,17 +105,17 @@ home = ["HTML", "RSS"]
   href = "https://unsplash.com"
   
   [[params.addtional_menus]]
-  title = "Stories"
-  href  = "/stories"
-  [[params.addtional_menus]]
-  title = "Music"
-  href  = "/music"
-  [[params.addtional_menus]]
   title = "About Me"
   href  = "/about"
   [[params.addtional_menus]]
   title = "Blog"
   href  = "/blog"
+  [[params.addtional_menus]]
+  title = "Music"
+  href  = "/music"
+  [[params.addtional_menus]]
+  title = "Stories"
+  href  = "/stories"
 
 
 [outputFormats.Algolia]
