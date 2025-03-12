@@ -12,9 +12,15 @@ image: '/images/gateway.png'
 ---
 
 ```Text
-Sorry honey held up at office going 2 b late home
+Husband:  
+
+Sorry honey held up at office  
+going 2 b late home
 ```
 
 ```Text
-                                        So who the hell just parked your car in the garage?!
+Wife:  
+
+So who the hell just parked  
+your car in the garage???
 ```
