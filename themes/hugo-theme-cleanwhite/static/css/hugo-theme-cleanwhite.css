@@ -57,10 +57,10 @@
 }
 .sidebar-container .short-about .list-inline>li{
     padding-left:0;
-    margin-righta:-15px
+    margin-right:-15px
 }
 body{
-    font-family:-apple-system,"Helvetica Neue",Arial,sans-serif;
+    font-family:-apple-system,"Helvetica Neue",Arial,"PingFang SC","Hiragino Sans GB",STHeiti,"Microsoft YaHei","Microsoft JhengHei","Source Han Sans SC","Noto Sans CJK SC","Source Han Sans CN","Noto Sans SC","Source Han Sans TC","Noto Sans CJK TC","WenQuanYi Micro Hei",SimSun,sans-serif;
     line-height:1.7;
     font-size:17px;
     color:#404040;
