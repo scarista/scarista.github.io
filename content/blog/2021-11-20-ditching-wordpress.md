@@ -6,7 +6,6 @@ layout: single
 published: true
 author: Alex
 showtoc: false
-categories: [ Tech ]
 ---
 
 Once upon a time, so the story goes, I kept a blog on [Blogger](https://www.blogger.com/). The time came for something better, so I moved my blog to [WordPress](https://wordpress.com/). Things were good for a time. They were so good that one blog begat a second and then a third. I even added a fourth, self-hosted site.
