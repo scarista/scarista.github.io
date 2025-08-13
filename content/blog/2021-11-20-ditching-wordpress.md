@@ -3,6 +3,7 @@ title: 'ditching wordpress'
 description: "I gave up on using Wordpress. Here's why."
 date: 2021-11-20
 layout: single
+tags: ['Technology']
 published: true
 author: Alex
 showtoc: false
