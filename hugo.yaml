@@ -1,0 +1,75 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: "amcs :: creative stuff"
+
+theme: ["PaperMod"]
+
+params:
+  author: Alex Matheson
+  profileMode:
+    enabled: true
+    # title: "Creative Stuff" # optional default will be site title
+    subtitle: "A collection of the assorted bits and pieces that make up a life."
+    imageUrl: "/images/logo500b.png" # optional
+    imageTitle: "amcs logo" # optional
+    imageWidth: 300 # custom size
+    imageHeight: 300 # custom size
+  socialIcons: # optional
+    - name: "bluesky"
+      url: "https://bsky.app/profile/scarista.bsky.social"
+    - name: "facebook"
+      url: "https://facebook.com/matheson33"
+    - name: "github"
+      url: "https://github.com/scarista"
+    - name: "instagram"
+      url: "https://instagram.com/matheson33"
+    - name: "soundcloud"
+      url: "https://www.soundcloud.com/scarista"
+  # ShowBreadCrumbs: true
+  ShowPostNavLinks: true
+  ShowShareButtons: false
+  ShowReadingTime: true
+
+pagination:
+   pagerSize: 10
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: acoustic
+      name: Acoustic
+      url: /acoustic/
+      weight: 20
+    - identifier: experimental
+      name: Experimental
+      url: /experimental/
+      weight: 30
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 40
+    - identifier: shorts
+      name: Shorts
+      url: /categories/shorts/
+      weight: 50
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 60
+    # - identifier: archives
+    #   name: The Vaults
+    #   url: /archives/
+    #   weight: 70
+    - identifier: search
+      name: SEARCH
+      url: /search/
+      weight: 80
