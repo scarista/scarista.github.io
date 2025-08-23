@@ -73,3 +73,8 @@ menu:
       name: SEARCH
       url: /search/
       weight: 80
+
+caches:
+  images:
+    dir: :cacheDir/images
+    
