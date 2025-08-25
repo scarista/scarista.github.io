@@ -23,9 +23,9 @@ A long time ago, I used to write and record my own songs. These were pretty basi
 
 The songs that I’m particularly fond of and have decent recordings of have been digitised and are presented on this site for posterity.
 
-Each was transferred from tape and cleaned up using [Audacity](https://www.audacityteam.org/). To some I added some effects and background noises in an effort to add more atmosphere and bring them to life in the way that I originally intended. You can hear these songs and read their lyrics by checking out my [Acoustic](/music/acoustic) page.
+Each was transferred from tape and cleaned up using [Audacity](https://www.audacityteam.org/). To some I added some effects and background noises in an effort to add more atmosphere and bring them to life in the way that I originally intended. You can hear these songs and read their lyrics by checking out my [Acoustic](/acoustic) page.
 
-More recently, I’ve been experimenting with [Acid Music Studio](https://www.magix.com/gb/music/acid/acid-music-studio/) and using it to create songs using a mixture of loops, sound effects and samples. These are available on the [Experimental](/music/experimental) page.
+More recently, I’ve been experimenting with [Acid Music Studio](https://www.magix.com/gb/music/acid/acid-music-studio/) and using it to create songs using a mixture of loops, sound effects and samples. These are available on the [Experimental](/experimental) page.
 
 Some of these experimental tracks have lyrics, most don’t. And the lyrics are not usually sung – they’re more likely to be spoken or created using speech synthesis software. I’ve also tried not to be constrained by my influences when putting these tracks together and have adopted an anything goes policy when composing them. Hopefully this will make for an interesting listening experience.
 
