@@ -1,0 +1,26 @@
+---
+title: "Barca: The Making Of The Greatest Team In The World"
+date: "2012-05-22"
+description: "A review of Graham Hunter's book on FC Barcelona."
+summary: "A review of Graham Hunter's book on FC Barcelona."
+tags: ["books"]
+categories: ["reviews"]
+---
+
+Football is a favourite subject of mine and so I’ve been looking forward to reading this book since I heard about it late last year. [FC Barcelona](http://www.fcbarcelona.com/) are a team I have always taken note of in a European context but have paid a lot more attention to following the matches they’ve played in recent years against [Celtic FC](http://www.celticfc.net/), who I support. I’ve also been looking forward to this book as I know the author (full disclosure he's a cousin) and have enjoyed and been impressed by his reporting of Spanish footballing matters over the years.
+
+So, expectations high, I settled down to read.
+
+Things got off to a very good start as I was completely engrossed in this book by the time I had read 30 pages or so. No doubt this was is in part because of my interest in football but I also attribute it to the author’s tone which I’d describe as conversational and friendly. It feels as if you’re being chatted with rather than spoken at – as can sometimes be the case with factual accounts.
+
+As the pages turned my captivation grew as matters moved beyond football and into the lives of the key players in the rejuvenation of Barca. I have to confess that I am guilty of often just thinking of players in terms of their on-field ability and behaviour, and of forgetting that these guys have lives beyond the pitch.
+
+Having spent many years [living and working in Spain] and getting to know many of the footballers there, the author manages to give them more definition as individuals – as people rather than just players. All those involved in returning Barca to greatness gain new stature as a result of [Graham Hunter’s](https://grahamhunter.tv/about/) work. Making it not only a well written but also a highly informative volume.
+
+The book focuses on Pep Guardiola’s period in charge of Barca and how he moulded the team into a dominant footballing force. It also examines the importance of Johan Cruyff to Barca’s history and the significance of his legacy at the club. The author also explains why a couple of football’s biggest stars, Ronaldinho and Deco, had to move on in order to safeguard the future of one Lionel Messi. We also gain insight into Jose Mourinho’s rather chequered Barca history and how the Special One’s tenure at Real Madrid has made [El Clasico](http://en.wikipedia.org/wiki/El_Cl%C3%A1sico) a classic all over again.
+
+Those who already have an interest in football must read this book – it reveals so much about what it takes to foster a winning mentality and a very special team. Those with no more than a passing interest in the game should also consider reading it as there is as much human interest on display as there is football.
+
+Well worth the price of admission.
+
+[Barca: The Making Of The Greatest Team In The World](https://grahamhunter.tv/books/barca/) by Graham Hunter is published by [BackPage Press](http://www.backpagepress.co.uk/).
