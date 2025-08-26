@@ -5,8 +5,6 @@ tags: ["humour"]
 categories: ["shorts"]
 ---
 
-## The Llama
-
 "This isn't what I signed up for at all. No damn way!"
 
 An idle Wednesday afternoon, with nothing but a laze by the pool scheduled, had become a complete nightmare. She was a lingerie model, he a llama, and the chase was on.

@@ -5,8 +5,6 @@ tags: ["fantasy", "dark humour"]
 categories: ["shorts"]
 ---
 
-## The Banana Dealer
-
 "That's correct, sir. I sold bananas for a living." He bowed his head as he spoke.
 
 "And were you always fair to your customers?" The patriarchal gatekeeper adjusted his headset, moving the microphone closer to his mouth.
