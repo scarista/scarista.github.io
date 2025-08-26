@@ -5,12 +5,6 @@ tags: ["humour"]
 categories: ["shorts"]
 ---
 
-My latest visit to [You Should Write](http://youshouldwrite.com/) suggested that I write: *an angry lingerie model chases a jumping llama on an idle Wednesday*  (aiming for 1,973 characters).
-
-<!--more-->
-
-I wasn't sure what to make of that suggestion at first, lingerie models and llamas not being subjects that I'm very familiar with. My first instinct was to hit my browser's refresh button to generate a new suggestion. But after a moments pause I decided to go with the flow and see what came along. This is what surfaced:
-
 ## The Llama
 
 "This isn't what I signed up for at all. No damn way!"
@@ -50,7 +44,3 @@ Now the llama's handler rejoined the fray. He took several slow steps towards th
 She stalked toward the handler hauling the llama along behind her.
 
 "Here," she spat. "To hell with this crap. I'm going home!"
-
-* * *
-
-And the actual character count was 1,975. Which is pretty close to the bull's eye. Even if I say so myself.

@@ -5,12 +5,6 @@ tags: ["fantasy", "dark humour"]
 categories: ["shorts"]
 ---
 
-Something different this week.
-
-A visit to the site [You Should Write](http://youshouldwrite.com/) suggested writing "a remorseful banana dealer goes to heaven" in about 2,003 characters. And so I give you:
-
-<!--more-->
-
 ## The Banana Dealer
 
 "That's correct, sir. I sold bananas for a living." He bowed his head as he spoke.
@@ -53,7 +47,7 @@ The old man gestured to his tablet. "It's all here. My employer keeps comprehens
 
 "Really? How so?"
 
-"By putting money aside for hard times and falling back on savings to buy a new consignment rather than stealing. I would have invested more in quality control. _Given_ bananas away to the poor."
+"By putting money aside for hard times and falling back on savings to buy a new consignment rather than stealing. I would have invested more in quality control. *Given* bananas away to the poor."
 
 The gatekeeper held up a hand. "Stop, please. I think I've heard enough."
 
@@ -62,7 +56,3 @@ He looked at the tablet again. Read for a moment. Swiped forward a few pages. Re
 Stepping to one side the gatekeeper spoke into his headset then listened for a moment.
 
 "Yes, I see." He turned back to the dealer. "I'm afraid my employer has some doubts about your remorsefulness. Would you follow me, please. Yes, that's right, down these stairs."
-
-* * *
-
-A hat tip must go to the [Daily Zen List](http://dailyzenlist.com/) which, [through this particular post](http://dailyzenlist.com/post/90947671878/12-useful-websites-to-improve-your-writing), led me to [You Should Write](http://youshouldwrite.com/) and a few other very useful writing tools.
