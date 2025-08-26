@@ -1,8 +1,8 @@
 ---
 title: "The Living Dead"
 date: "2012-03-14"
-description: "An anthology of zombie stories compiled by John Joseph Adams"
-summary: "An anthology of zombie stories compiled by John Joseph Adams"
+description: "An anthology of zombie stories compiled by John Joseph Adams."
+summary: "An anthology of zombie stories compiled by John Joseph Adams."
 tags: ["books"]
 categories: ["reviews"]
 ---
