@@ -7,7 +7,7 @@ tags: ["books"]
 categories: ["reviews"]
 ---
 
-*The Lewis Man* is the second book in [Peter May’s](http://www.petermay.co.uk/) [Lewis Trilogy](http://www.ur-web.net/PeterMayMain/lewispage.html) and the sequel to *The Blackhouse*, which I posted my views on [here](../posts/r2012-04-19-the-blackhouse.md).
+*The Lewis Man* is the second book in [Peter May’s](http://www.petermay.co.uk/) [Lewis Trilogy](http://www.ur-web.net/PeterMayMain/lewispage.html) and the sequel to *The Blackhouse*, which I posted my views on [here](../r2012-04-19-the-blackhouse).
 
 In this instalment of the trilogy a well-preserved body of a man is found buried in the Lewis peat. At first it is thought the body may have lain in the ground for thousands of years but this idea is soon dispelled following the discovery of a rather more recent tattoo. There are no other identifying marks on the man’s body but it becomes clear he has been murdered. With so little to go on there seems little hope of either finding the man’s identity or solving the crime. Fin Macleod, who has now left both Edinburgh and the police force, has just returned to his home island and finds himself entangled in the investigation. Which he soon finds strikes closer to home than he might like.
 
