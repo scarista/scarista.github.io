@@ -3,7 +3,7 @@ title: "Welcome"
 layout: "single"
 date: "2025-08-19"
 url: "/about/"
-summary: An about page
+summary: Information about me and this website.
 cover:
   image: "/images/newton-a.jpg"
   # can also paste direct link from external site
