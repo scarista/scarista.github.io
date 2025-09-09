@@ -6,7 +6,7 @@ summary: "My take on the story told in Operation: Mindcrime by Queensrÿche."
 tags: ["music"]
 categories: ["reviews"]
 cover:
-  image: "http://www.queensrycheofficial.com/wp-content/uploads/2016/04/Operation-Mindcrime.jpg"
+  image: "/images/mindcrime.jpg"
 ---
 
 There are many albums out there in music-land which are described as [concept albums](http://en.wikipedia.org/wiki/Concept_album), concerning themselves with a particular theme. There are a handful which are more ambitious, pushing beyond a unifying theme and attempting to tell one story from beginning to end. Of those that fill this latter camp, I don’t think there are any that do it as well as [Queensrÿche’s](http://www.queensrycheofficial.com/) superb [Operation: Mindcrime](http://en.wikipedia.org/wiki/Operation:_Mindcrime).
