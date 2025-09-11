@@ -39,11 +39,11 @@ You can play all of the tracks presented here by visiting my [Soundcloud](https:
 
 So as well as things musical, I occasionally write short stories and other snippets of prose.
 
-Once upon a time, I actually went so far as to write a novel though it needs a hell of a lot of editing before it is fit to be unleashed on an unsuspecting world. One day I'll get round to that task but in the meantime you can download some stuff I've taken the time to publish in ebook form.
-
 {{< figure
   src="/images/footsteps.png"
   alt="Sgarasta Mhòr Beach, Isle Of Harris" >}}
+
+Once upon a time, I actually went so far as to write a novel though it needs a hell of a lot of editing before it is fit to be unleashed on an unsuspecting world. One day I'll get round to that task but in the meantime you can download some stuff I've taken the time to publish in ebook form.
 
 The [shorts](/categories/shorts) and [stories](/stories) I've posted on this site are a mixture of horror, fantasy and the absurd. So read them at your own risk...
 
