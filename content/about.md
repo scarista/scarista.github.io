@@ -47,4 +47,10 @@ Once upon a time, I actually went so far as to write a novel though it needs a h
 
 The [shorts](/categories/shorts) and [stories](/stories) I've posted on this site are a mixture of horror, fantasy and the absurd. So read them at your own risk...
 
+## Images
+
+I take photos too. Some are good, some bad, and many that have been deleted in horror over the years.
+
+Any photos that have been used on this site were taken by me, unless otherwise attributed. Those that aren't mine will most likely have been downloaded from [Unsplash](https://unsplash.com/) where you can find millions of free high resolution images.
+
 {{< figure src="/images/forest-round-200.png" alt="Me In A Forest" link="/about" >}}
