@@ -6,13 +6,15 @@ url: "/acoustic/"
 summary: A selection of the acoustic tracks I've recorded
 showtoc: true
 cover:
-  image: "/images/acousticguitar2.png"
+  image: "/images/acousticguitar.png"
   # can also paste direct link from external site
   # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
   # alt: "Newton"
   # caption: "Newton circa 1912"
   # relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
+
+Photo by <a href="https://unsplash.com/@kalzayy?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Harshveen Kalsi</a> on <a href="https://unsplash.com/photos/a-close-up-of-an-acoustic-guitar-on-a-black-background-kyCFXYIO0LA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 ## Acoustic Player
 
