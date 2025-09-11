@@ -14,7 +14,7 @@ cover:
   # relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
 
-Photo by <a href="https://unsplash.com/@kalzayy?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Harshveen Kalsi</a> on <a href="https://unsplash.com/photos/a-close-up-of-an-acoustic-guitar-on-a-black-background-kyCFXYIO0LA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+*Cover image photo by [Harshveen Kalsi](https://unsplash.com/@kalzayy?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-close-up-of-an-acoustic-guitar-on-a-black-background-kyCFXYIO0LA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)*
 
 ## Acoustic Player
 
