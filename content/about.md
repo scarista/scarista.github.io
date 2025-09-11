@@ -17,6 +17,11 @@ Greetings fellow human. Welcome to my small slice of the interwebs.
 
 You’ll find various things that I’ve created over the years spread among these pages - an assortment of music, the written word and other oddities. A smorgasbord of stuff that I’ve pieced together when not working at my day job.
 
+{{< figure
+  src="/images/bungalow.png"
+  alt="A photograph of The Bungalow, Scarista, Isle Of Harris"
+  caption="The Bungalow" >}}
+
 ## Music
 
 A long time ago, I used to write and record my own songs. These were pretty basic things featuring just me singing and playing an acoustic guitar. Most of these were not all that great but there are a few that I’m quite pleased with, despite never having properly recorded and released them.
