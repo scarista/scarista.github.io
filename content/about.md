@@ -53,4 +53,6 @@ I take photos too. Some are good, some bad, and many that have been deleted in h
 
 Any photos that have been used on this site were taken by me, unless otherwise attributed. Those that aren't mine will most likely have been downloaded from [Unsplash](https://unsplash.com/) where you can find millions of free high resolution images.
 
+The one exception to this is the cover image for this post. That image comes from a photo taken of Newton Street, Stornoway, Isle of Lewis in 1912. The original photo has hung in my parent's house or in The Bungalow (see above image) for many years.
+
 {{< figure src="/images/forest-round-200.png" alt="Me In A Forest" link="/about" >}}
