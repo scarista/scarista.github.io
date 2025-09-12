@@ -5,6 +5,13 @@ description: "A review of Peter May's island set thriller."
 summary: "A review of Peter May's island set thriller."
 tags: ["books"]
 categories: ["reviews"]
+cover:
+  image: "/images/bookshelf.png"
+  # can also paste direct link from external site
+  # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
+  # alt: "Newton"
+  # caption: "Newton circa 1912"
+  # relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
 
 Despite doing most of my reading on an ereader these days, I still love getting my hands on a good old-fashioned paper-based book. Which is just as well, as I received a copy of *The Blackhouse* by [Peter May](http://www.petermay.co.uk/) as a present recently.
@@ -16,3 +23,5 @@ Anyhoo … *The Blackhouse* is the first of the [Lewis Trilogy](http://www.ur-we
 Throughout the book, the threads dealing with Fin’s younger days and his investigation of the murder twist around each other before merging as the denouement is reached. If you pay attention as things develop the outcome can be predicted – the clues are there – but you do *need* to pay attention. The characters involved are very well realised (though I felt the characterisation of one police officer was a bit over the top) and as a result you connect with them emotionally. You also grow to understand how their background and upbringing has made them what they are, especially with regard to the role religion, the [guga](https://lookingnorth.blog/2020/06/the-guga-hunters-of-ness/), and remoteness have played in the lives of the islanders. Clearly, Mr. May has done his research well.
 
 Overall this is a pretty good read though at times the tone is rather dark and bleak – a consequence of the subject matter rather than Peter May’s style. So, despite my early struggle matching descriptive passages with reality, I recommend *The Blackhouse* as a worthwhile read. I’ll also be pressing on with the remainder of the trilogy as I’ve also been given a hardback copy of the next book in the sequence, *The Lewis Man*.
+
+*The cover image photo for this post is by [Paul Lichtblau](https://unsplash.com/@laup?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-book-shelf-filled-with-lots-of-books-dvULgNPJPak?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)*

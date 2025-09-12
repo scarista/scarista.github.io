@@ -5,6 +5,13 @@ description: "A review of the book by Christopher Hitchens."
 summary: "A review of the book by Christopher Hitchens."
 tags: ["books"]
 categories: ["reviews"]
+cover:
+  image: "/images/bookshelf.png"
+  # can also paste direct link from external site
+  # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
+  # alt: "Newton"
+  # caption: "Newton circa 1912"
+  # relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
 
 Indeed he isn’t.
@@ -23,3 +30,5 @@ There are many quotes from the book that struck me as worth posting. Far too man
 > 
 > God Is Not Great  
 > *Christopher Hitchens*
+
+*The cover image photo for this post is by [Paul Lichtblau](https://unsplash.com/@laup?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-book-shelf-filled-with-lots-of-books-dvULgNPJPak?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)*

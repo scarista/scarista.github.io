@@ -5,6 +5,13 @@ description: "A review of the novel by Stephen King."
 summary: "A review of the novel by Stephen King."
 tags: ["books"]
 categories: ["reviews"]
+cover:
+  image: "/images/bookshelf.png"
+  # can also paste direct link from external site
+  # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
+  # alt: "Newton"
+  # caption: "Newton circa 1912"
+  # relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
 
 This one sat on my bookshelf for quite a long time before I finally decided to read it. In fact, given that it’s the hard back version of the book it must have sat there for a couple of years – something that wouldn’t have happened in the past. Usually I move anything by [Stephen King](http://www.stephenking.com/index.html) straight to the top of my reading pile and make it the next book I read. Perhaps, for me at least, Stephen King has gone off the boil as an author?
@@ -20,3 +27,5 @@ If I was in the business of awarding marks, this one would score very highly. As
 > “On an entirely normal, beautiful fall day in Chester’s Mill, Maine, the town is inexplicably and suddenly sealed off from the rest of the world by an invisible force field. Planes crash into it and fall from the sky in flaming wreckage, a gardener’s hand is severed as “the dome” comes down on it, people running errands in the neighboring town are divided from their families, and cars explode on impact. No one can fathom what this barrier is, where it came from, and when—or if—it will go away.”
 > 
 > From the synopsis published on [stephenking.com](http://www.stephenking.com/library/novel/under_the_dome.html).
+
+*The cover image photo for this post is by [Paul Lichtblau](https://unsplash.com/@laup?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-book-shelf-filled-with-lots-of-books-dvULgNPJPak?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)*
