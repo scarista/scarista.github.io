@@ -5,6 +5,13 @@ description: "A short story by Kevin J. Anderson & Neil Peart."
 summary: "A short story by Kevin J. Anderson & Neil Peart."
 tags: ["books"]
 categories: ["reviews"]
+cover:
+  image: "/images/bookshelf.png"
+  # can also paste direct link from external site
+  # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
+  # alt: "Newton"
+  # caption: "Newton circa 1912"
+  # relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
 
 To prove I haven’t either stopped reading or fallen off the edge of the planet here’s the first of several views that I’ll be posting over the coming weeks…
@@ -14,3 +21,5 @@ To prove I haven’t either stopped reading or fallen off the edge of the planet
 Although short (about 32 pages including fore- and afterword) it’s an enjoyable read which I whizzed through to fill a gap as I decided which novel from my reading pile to tackle next. The narrative brings drummer fictional Danny Imbro, the landscape he travels through and characters he meets to brief but brilliant life as he journeys towards the twist in his tale. There’s not much more that can be said without venturing into spoiler territory but this one will suit fans of chilling fiction everywhere.
 
 You can pick up *Drumbeats* from any good book- or ebook-seller and enjoy the foreword by Kevin J. Anderson and afterword by Neil Peart in which author and real-life drummer, respectively, discuss their friendship – a must have for fans of Rush.
+
+*The cover image photo for this post is by [Paul Lichtblau](https://unsplash.com/@laup?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-book-shelf-filled-with-lots-of-books-dvULgNPJPak?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)*

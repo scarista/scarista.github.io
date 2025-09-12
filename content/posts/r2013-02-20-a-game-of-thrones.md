@@ -5,6 +5,13 @@ description: "Some thoughts on the first volume of A Song Of Ice And Fire."
 summary: "Some thoughts on the first volume of A Song Of Ice And Fire."
 tags: ["books"]
 categories: ["reviews"]
+cover:
+  image: "/images/bookshelf.png"
+  # can also paste direct link from external site
+  # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
+  # alt: "Newton"
+  # caption: "Newton circa 1912"
+  # relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
 
 I used to be a great fan of fantasy fiction. Swords, sorcery, hobbits, Lords, rings – I’m sure you know the sort of thing. Then along came Robert Jordan’s [The Wheel Of Time](http://en.wikipedia.org/wiki/The_Wheel_of_Time) series…
@@ -34,3 +41,5 @@ One of the things I really like about this book is that it does not rely heavily
 Also there is a genuine sense of threat and uncertainty as the author is not afraid to kill off characters who have central roles in his tale. This gives rise to some real cliff-hanger moments which help hold the attention and really make you wonder what is going to happen next. I consider this to be a really good thing in a novel as too many times you know that no matter what the hero or heroine will win the day in the end. Every once in a while they need to lose or be heroically wiped out (no matter how tempting the rewards of a sequel might be!).
 
 That’s probably enough for just now as there are another 6 books in this sequence to come and I’ll have something to add about each. I’ll just add that I’m glad I used that book token to pick up a copy of *A Game Of Thrones*, its a great read and I’m looking forward to *A Clash Of Kings*. Will I read any more in the Fantasy genre when I reach the end of [A Song Of Ice And Fire](http://en.wikipedia.org/wiki/A_Song_of_Ice_and_Fire)? Well, it is far too soon to say but if this standard is maintained I suspect anything else the genre has to offer may pale in comparison.
+
+*The cover image photo for this post is by [Paul Lichtblau](https://unsplash.com/@laup?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-book-shelf-filled-with-lots-of-books-dvULgNPJPak?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)*
