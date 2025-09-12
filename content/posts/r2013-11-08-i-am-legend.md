@@ -5,6 +5,13 @@ description: "A sci-fi classic that takes the vampire motif and turns it on its 
 summary: "A sci-fi classic that takes the vampire motif and turns it on its head."
 tags: ["books"]
 categories: ["reviews"]
+cover:
+  image: "/images/bookshelf.png"
+  # can also paste direct link from external site
+  # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
+  # alt: "Newton"
+  # caption: "Newton circa 1912"
+  # relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
 
 [I Am Legend](http://en.wikipedia.org/wiki/I_Am_Legend_%28novel%29) by [Richard Matheson](http://en.wikipedia.org/wiki/Richard_Matheson) is one of my favourite books. It is a genre spanning classic merging apocalyptic fiction, sci-fi and horror whilst turning the lone-vampire-terrorising-Carpathian-village paradigm completely upside-down.
@@ -20,3 +27,5 @@ Although a fairly short book (about 160 pages), *I Am Legend* is packed with ide
 What else? Well, there are the movies: [The Last Man On Earth](http://en.wikipedia.org/wiki/The_Last_Man_on_Earth_%281964_film%29) – a very good movie starring the great Vincent Price and perhaps the truest to the novel; [The Omega Man](http://en.wikipedia.org/wiki/The_Omega_Man), not so faithful to the book, starring the even greater Charlton Heston (a movie that I remember very fondly from childhood days); and finally, the effects driven modern adventure romp [I Am Legend](http://en.wikipedia.org/wiki/I_Am_Legend_%28film%29) starring Will Smith (whose greatness is still to be decided, at least for me) and perhaps only a distant relation to the novel. There may be others but these are the ones I’ve seen and I’d pick *The Omega Man* as my favourite.
 
 Ah, well, maybe it is better to set the movies to one side and settle for the book.
+
+*The cover image photo for this post is by [Paul Lichtblau](https://unsplash.com/@laup?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-book-shelf-filled-with-lots-of-books-dvULgNPJPak?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)*

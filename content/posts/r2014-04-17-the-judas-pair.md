@@ -5,6 +5,13 @@ description: "The first of the Lovejoy Novels is an enjoyable romp but with atti
 summary: "The first of the Lovejoy Novels is an enjoyable romp but with attitudes of its time."
 tags: ["books"]
 categories: ["reviews"]
+cover:
+  image: "/images/bookshelf.png"
+  # can also paste direct link from external site
+  # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
+  # alt: "Newton"
+  # caption: "Newton circa 1912"
+  # relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
 
 Time to play catch up…
@@ -20,3 +27,5 @@ After some humming and hawing, Lovejoy accepts the job of tracking down a legend
 It’s worth mentioning that, having been a fan of the [BBC tv series](http://en.wikipedia.org/wiki/Lovejoy), I kept comparing the story with my memories of the antics of Ian McShane, Phyllis Logan, Dudley Sutton and co. There are similarities between the two but the differences are enough to give the books a life of their own – pretty much what you would expect with any work that has been adapted for film, tv or stage.
 
 Find out more over at [Goodreads](http://www.goodreads.com/book/show/733523.The_Judas_Pair).
+
+*The cover image photo for this post is by [Paul Lichtblau](https://unsplash.com/@laup?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-book-shelf-filled-with-lots-of-books-dvULgNPJPak?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)*

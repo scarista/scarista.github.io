@@ -5,6 +5,13 @@ description: "Some thoughts on the second entry in Mira Grant's Newsflesh trilog
 summary: "Some thoughts on the second entry in Mira Grant's Newsflesh trilogy."
 tags: ["books"]
 categories: ["reviews"]
+cover:
+  image: "/images/bookshelf.png"
+  # can also paste direct link from external site
+  # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
+  # alt: "Newton"
+  # caption: "Newton circa 1912"
+  # relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
 
 *Deadline* is [Mira Grant’s](http://www.miragrant.com) sequel to *Feed* - which I “reviewed” [here](../r2013-02-16-feed) - and the second book in her [Newsflesh](http://miragrant.com/newsflesh.php) Trilogy.
@@ -18,3 +25,5 @@ Armed with this information and some unpleasant facts gleaned from the CDC about
 The second book of the Newsflesh Trilogy is a match for the first in terms of pace and excitement. Mira Grant continues to build her post-zombie-apocalypse world by providing more history and further exploring the nature of the zombie virus. She adds further detail and explanation to the reservoir conditions which allows the virus to be hosted in the human body prior to amplification. And, most importantly, she adds more depth to her characters through dialogue, backstory and exploration of the situations they find themselves in and the emotional consequences they are exposed to. There is no sign of second-novel-in-a-series-slump here. A fact borne out by twists, turns and cliff-hangers that leave you wondering what the hell is coming next.
 
 *Deadline* deserves a big thumbs up and all the attention you can give it.
+
+*The cover image photo for this post is by [Paul Lichtblau](https://unsplash.com/@laup?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-book-shelf-filled-with-lots-of-books-dvULgNPJPak?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)*

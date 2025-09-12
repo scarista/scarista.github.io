@@ -5,6 +5,13 @@ description: "Reading Yann Martel's Life Of Pi before seeing the movie."
 summary: "Reading Yann Martel's Life Of Pi before seeing the movie."
 tags: ["books"]
 categories: ["reviews"]
+cover:
+  image: "/images/bookshelf.png"
+  # can also paste direct link from external site
+  # ex. https://i.ibb.co/K0HVPBd/paper-mod-profilemode.png
+  # alt: "Newton"
+  # caption: "Newton circa 1912"
+  # relative: false # To use relative path for cover image, used in hugo Page-bundles
 ---
 
 [Life Of Pi](http://en.wikipedia.org/wiki/Life_of_Pi) by [Yann Martel](http://en.wikipedia.org/wiki/Yann_Martel) is a book that has intrigued me since I first saw it on the shelf of a local bookshop back in 2002, when it won the [Man Booker Prize For Fiction](https://thebookerprizes.com/the-booker-library/books/life-of-pi). In fact, during visits to various bookshops I’ve found myself with a copy in the pile of books I planned to buy only to swap it for something else. Then the book got made into a movie and so reading it became a lot more urgent - it looks like a movie I want to see and I prefer to read the book before seeing the film.
@@ -18,3 +25,5 @@ As Pi adapts to his situation, makes plans for his survival and drifts on the Pa
 It’s quite an engaging tale, so much so that you start to empathise with Pi, sharing his fear, frustration and moments of triumph. Especially when he has his somewhat surreal meerkat encounter as the tale draws to a close.
 
 This one deserves a big thumbs up and now I’m looking forward to seeing the movie.
+
+*The cover image photo for this post is by [Paul Lichtblau](https://unsplash.com/@laup?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-book-shelf-filled-with-lots-of-books-dvULgNPJPak?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)*
